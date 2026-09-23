@@ -1,5 +1,19 @@
 # Vocal Vision: Real-Time Object Detection with Voice Assistance Using YOLO
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/YOLO-Ultralytics-purple?style=for-the-badge" alt="YOLO">
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-green?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/pyttsx3-Text--to--Speech-orange?style=for-the-badge" alt="pyttsx3">
+</p>
+
+<p align="center">
+  <strong>AI-Powered Real-Time Object Detection with Voice Assistance</strong>
+</p>
+
+---
+
 ## Overview
 **Vocal Vision** is a real-time assistive system designed to help visually impaired users identify objects in their surroundings through **audio feedback**.
 
