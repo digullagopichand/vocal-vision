@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>AI-Powered Real-Time Object Detection with Voice Assistance</strong>
+  <strong>AI-Powered Real-Time Object Detection with Voice Assistance </strong>
 </p>
 
 ---
